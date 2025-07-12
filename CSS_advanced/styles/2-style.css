@@ -1,0 +1,25 @@
+/* Body text color */
+body {
+  color: #161616;
+}
+
+/* Anchor elements text color */
+a {
+  color: #161616;
+}
+
+/* Hide elements with class visually-hidden */
+.visually-hidden {
+  display: none;
+}
+
+/* Elements with class card-category color */
+.card-category {
+  color: #D73953;
+}
+
+/* Elements with class section-tagline color */
+.section-tagline {
+  color: #D73953;
+}
+
